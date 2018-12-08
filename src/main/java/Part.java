@@ -42,10 +42,7 @@ public class Part {
 		
 		List<String> liste1 = new ArrayList<String>(liste);
 		liste1.removeIf(n -> liste.indexOf(n) % 2 == 0);
-		
-		System.out.println(liste1);
-
-
+		//cdcdcdc
 	}
 
 }
